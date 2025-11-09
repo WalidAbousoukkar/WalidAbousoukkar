@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Full-Stack Website development**
 
-- 💻 My most used languages are **Python, C, C#, HTML, and CSS**
+- 💻 My most used languages are **Python, C, C#, JS, HTML, and CSS**
   
 - 📫 How to reach me **soukkarox@gmail.com**
   
