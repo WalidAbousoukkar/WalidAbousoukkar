@@ -15,7 +15,10 @@
 
 - 💬 Ask me about **Full-Stack Website development**
 
+- 💻 My most used languages are **Python, C, C#, HTML, and CSS**
+  
 - 📫 How to reach me **soukkarox@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
