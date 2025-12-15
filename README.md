@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidabousoukkar" alt="walidabousoukkar" /></a> </p>
 
-- 🔭 I’m currently working on **my own website**
+- 🔭 I’m currently working on **My own website**
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and cloud deployment with AWS and Docker.**
 
