@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/Status-Open_to_work-34d399?style=flat-square&labelColor=0d1117&logo=circle&logoColor=34d399" />
   </p>
   <p>
-    <a href="https://walidabousoukkar.github.io/personal-website">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_my_site-63b3ed?style=for-the-badge&labelColor=0d1117" />
+    <a href="https://walidabousoukkar.com">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-walidabousoukkar.com-63b3ed?style=for-the-badge&labelColor=0d1117" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/walid-abousoukkar-8822ba252">
