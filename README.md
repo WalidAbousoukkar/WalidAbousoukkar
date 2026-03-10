@@ -6,6 +6,8 @@
 
 ### Software Engineer · Boston, MA
 
+**B.S. Computer Science, UMass Dartmouth · Cum Laude**
+
 <p>
   <img src="https://img.shields.io/badge/Open_to_work-34d399?style=for-the-badge&labelColor=1a1a2e" alt="Open to work" />
 </p>
@@ -16,21 +18,24 @@
   <a href="mailto:soukkarox@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=WalidAbousoukkar&label=Profile%20views&color=63b3ed&style=flat" alt="Profile views" />
-</p>
-
 </div>
 
 ---
 
-### 👋 About me
+### 🚀 Featured work
 
-I build **full-stack apps** and ship real products. B.S. in Computer Science from UMass Dartmouth (Cum Laude), where I built a **Knowledge Management System** for the Naval Undersea Warfare Center as my capstone.
+> **Knowledge Management System for the US Navy**  
+> Built and presented live to **Naval Undersea Warfare Center (NUWC)** stakeholders as my capstone. Full-stack system — REST APIs, databases, responsive frontends.
 
-- 🔭 **Open to work** — Looking for my first full-time software engineering role
-- 💬 **Ask me about** — Full-stack development, REST APIs, React, Python
-- 📫 **Reach me** — [soukkarox@gmail.com](mailto:soukkarox@gmail.com)
+---
+
+### About me
+
+I build full-stack applications end-to-end and ship real products. I focus on clean code, solid architecture, and polished UIs.
+
+- **Open to work** — Seeking a full-time software engineering role where I can contribute and grow
+- **Ask me about** — Full-stack development, REST APIs, React, Python, shipping products
+- **Reach me** — [soukkarox@gmail.com](mailto:soukkarox@gmail.com)
 
 ---
 
