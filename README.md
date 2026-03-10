@@ -29,7 +29,6 @@
 I build **full-stack apps** and ship real products. B.S. in Computer Science from UMass Dartmouth (Cum Laude), where I built a **Knowledge Management System** for the Naval Undersea Warfare Center as my capstone.
 
 - 🔭 **Open to work** — Looking for my first full-time software engineering role
-- 🌱 **Learning** — Next.js, TypeScript, AWS, Docker
 - 💬 **Ask me about** — Full-stack development, REST APIs, React, Python
 - 📫 **Reach me** — [soukkarox@gmail.com](mailto:soukkarox@gmail.com)
 
