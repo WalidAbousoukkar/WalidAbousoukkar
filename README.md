@@ -45,10 +45,6 @@ Portfolio site built with HTML, CSS, and JavaScript. No framework. Hosted on Git
 
 Senior capstone for the Naval Undersea Warfare Center, presented to their stakeholders. A searchable document platform with an Angular frontend, a Flask API, and MongoDB, including search, role-based access, and admin tools.
 
-**UMass Connect**
-
-Campus social app: posts, likes, comments, and reposts. React and Tailwind on the frontend, Flask and MongoDB on the backend, with JWT auth.
-
 ---
 
 ## Stack
